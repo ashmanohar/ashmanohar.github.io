@@ -1,0 +1,38 @@
+remote_theme: alshedivat/al-folio
+title: blank
+first_name: Ashish
+last_name: manohar
+email: asmanoha@eng.uscd.com
+footer_text: >
+  &copy; 2021 Ashish Manohar
+lang: en
+icon: 🎓
+url: https://ashmanohar.github.io
+baseurl: /
+last_updated: true
+github_username: ashmanohar
+linkedin_username: ashishmanohar
+scholar_userid: IJzTcQwAAAAJ
+orcid_id: 0000-0001-5239-6260
+research_gate_profile: Ashish-Manohar
+rss_icon: false
+scholar:
+  last_name: Manohar
+  first_name: [Ashish]
+
+  style: apa
+  locale: en
+
+  source: /_bibliography/
+  bibliography: bibliography.bib
+  bibliography_template: bib
+  # Note: if you have latex math in your bibtex, the latex filter
+  # preprocessing may conflict with MathJAX if the latter is enabled.
+  # See https://github.com/alshedivat/al-folio/issues/357.
+  bibtex_filters: [latex, smallcaps, superscript]
+  replace_strings: true
+  join_strings: true
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+  query: "@*"
