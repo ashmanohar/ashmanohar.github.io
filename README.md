@@ -1,2 +1,1 @@
-# ashmanohar.github.io
-Ashish Manohar's personal homepage
+Source for ashmanohar.github.io
