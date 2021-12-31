@@ -16,6 +16,6 @@ Prior to joining UC San Diego, I earned my BE in mechanical engineering from the
 
 My research interests include the improvement of non-invasive imaging systems for the better diagnosis of heart disease. In particular, my doctoral research is focused on improving the accuracy of measuring regional cardiac function using 4DCT.
 
-I am the recipient of the [American Heart Association Predoctoral Fellowship](https://professional.heart.org/en/research-programs/application-information/predoctoral-fellowship) and the Siemens Young Scientist Award by SPIE Medical Imaging 2019.
+I am the recipient of the [American Heart Association Predoctoral Fellowship](https://professional.heart.org/en/research-programs/application-information/predoctoral-fellowship) and the Siemens Young Scientist Award by [SPIE Medical Imaging](https://spie.org/conferences-and-exhibitions/medical-imaging).
 
 Outside of academia, I enjoy biking, playing tennis, and multi-day backcountry hiking.
