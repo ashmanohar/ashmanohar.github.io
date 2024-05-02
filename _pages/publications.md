@@ -12,6 +12,6 @@ nav: true
   </section>
   <h2>Conference proceedings</h2>
   {% bibliography -f papers -q @inproceedings %}
-  <h2>In preparation</h2>
-  {% bibliography -f papers -q @unpublished %}
+  <!-- <h2>In preparation</h2>
+  {% bibliography -f papers -q @unpublished %} -->
 </div>
