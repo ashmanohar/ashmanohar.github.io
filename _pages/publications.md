@@ -7,7 +7,7 @@ nav: true
 
 <div class="publications">
   <section>
-  <h2>Journal papers</h2>
+  <h2>Peer-reviewed publications </h2>
   {% bibliography -f papers -q @article %}
   </section>
   <section>
